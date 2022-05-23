@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa083776-72fb-4506-a1fb-683b487982b4" name="Changes" comment="ДЗ №4 Циклы&#10;Задание №1">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa083776-72fb-4506-a1fb-683b487982b4" name="Changes" comment="ДЗ №4 Циклы&#10;Задание №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653297156349</updated>
-      <workItem from="1653297157964" duration="3703000" />
+      <workItem from="1653297157964" duration="4218000" />
     </task>
     <task id="LOCAL-00001" summary="ДЗ №4 Циклы&#10;Задание №1">
       <created>1653301268902</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653301268902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ №4 Циклы&#10;Задание №1">
+      <created>1653302229156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653302229156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
