@@ -4,6 +4,7 @@ public class Main {
         task2();
         task3();
         task4();
+        task5();
 
     }
 
@@ -51,8 +52,24 @@ public class Main {
             } else {
                 System.out.println(i + ":");
             }
-
         }
-
+    }
+    public static void task5(){
+        int number1 = 0;
+        int number2 = 1;
+        int sum ;
+        for (int i = 0; i < 10; i++) {
+            if (i == 0) {
+                System.out.print(number1 + " ");
+                continue;
+            } else if (i == 1) {
+                System.out.print(number2 + " ");
+                continue;
+            }
+            sum = number1 + number2;
+            number1 = number2;
+            number2 = sum;
+            System.out.print(sum + " ");
+        }
     }
 }
